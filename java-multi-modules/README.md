@@ -1,3 +1,5 @@
+READ.ME 
+
 # Maven – How to create a multi module project
 Maven, Spring MVC, thymeleaf, a simple MVC web app to hash a string with either MD5 or the SHA-256 algorithm.
 
