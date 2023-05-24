@@ -1,5 +1,4 @@
 
-**read.me**
 
 ## Apache Maven Tutorial
 
